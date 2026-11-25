@@ -1,0 +1,6 @@
+{
+  "name": "YOS COLLECTION — Digital Loyalty Stamp Card",
+  "description": "Luxury black, white, and gold digital loyalty stamp card system with PIN-protected staff stamping, customer management, expandable stamp configurations, activity audit logs, and database backup & restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
